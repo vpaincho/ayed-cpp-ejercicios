@@ -1,3 +1,4 @@
-# ?? Ventas mensuales (C++)
+# Ventas mensuales (C++)
 
-Lee ventas desde .bin y exporta TXT filtrado por mes/a�o. Practica archivos, struct y Git.
+Lectura de ventas y reporte mensual (C++) — AyED UTN
+Mini herramienta que filtra ventas por mes/año desde un archivo binario y exporta un TXT legible. Ideal para practicar manejo de archivos, struct, cadenas y Git. Incluye resumen por local y comandos listos para compilar/ejecutar.
